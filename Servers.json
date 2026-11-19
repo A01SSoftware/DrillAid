@@ -1,8 +1,8 @@
 {
   "servers": [
     
-    { "id": "primary", "url": "a01s.ir", "priority": 0},
-    { "id": "backup1", "url": "a01sserver.tail32fe4b.ts.net", "priority": 1 },
+    { "id": "primary", "url": "drillaid.ir/sever_original", "priority": 0},
+    { "id": "backup1", "url": "drillaid.ir/sever_vm", "priority": 1 },
     { "id": "backup2", "url": "tailscale-termux.tail32fe4b.ts.net", "priority": 2 }
   ]
 }
